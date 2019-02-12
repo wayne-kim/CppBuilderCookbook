@@ -1,0 +1,16 @@
+# C++ Builder에서 추적 할 필요 없는 확장자 파일
+*.res
+*.stat
+*.~1~
+*.~*~
+*.a
+*.d
+*.o
+*.exe
+*.local
+
+# 디버깅 및 배포 파일
+Win32/
+Win64/
+Android/
+iOS/
